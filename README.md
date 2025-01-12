@@ -3,7 +3,6 @@
 ## Author
 - **Name**: Pranjal Sarnaik  
 - **Date Created**: 06 Jan 2025  
-- **Last Modified**: [Provide modification dates as applicable]
 
 ---
 
